@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Estonia&display=swap');
+
+
+*{
+    margin : 0;
+    font-family: 'Estonia', cursive;
+}
+
+#cabecera{
+    padding-top: 20px;
+    text-align: center;
+    
+
+}
+
+.cuerpo{
+    background: rgba(252, 207, 7, 0.911);
+}
+
+
+#logo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: darkgoldenrod;
+}
+
+
+
+.logo {
+    
+    
+    width: 7%;
+    height: 4%;
+    padding: 1%;
+    border-radius: 50%;
+    
+}
+#cabecera p{
+    color: yellow;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+.carrusel{
+   }
+.carru img{
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    max-height: 250px;
+        }
+
+
+        .carru1 img{
+            width: auto;
+            height: auto;
+            max-width: 350px;
+            max-height: 350px;
+            border: rgb(194, 146, 16);
+            
+                }
+
+                .imgtabla{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    
+                }
+
+                .imgtabla img {
+                    width: auto;
+            height: auto;
+            max-width: 80px;
+            max-height: 80px;
+             border-radius: 50%;
+     
+                }
+                .imgtabla1{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    
+                }
+                .imgtabla1 img{
+                    width: auto;
+                    height: auto;
+                    max-width: 110px;
+                    max-height: 110px;
+                     border-radius: 50%;
+             
+                }
